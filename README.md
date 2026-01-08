@@ -101,15 +101,5 @@ The Power BI dashboard includes:
 
 ---
 
-## ▶️ How to Run the Project
-1. Clean the raw dataset using Microsoft Excel
-2. Upload the cleaned dataset into a SQL database
-3. Perform data analysis using SQL queries
-4. Connect SQL to Power BI
-5. Build interactive visuals and slicers
-6. Analyze customer behavior using the dashboard
-
----
-
 ## ✅ Conclusion
 This project demonstrates the use of **Excel, SQL (including window functions), and Power BI** for customer behavior analysis. It showcases foundational data analysis skills such as data cleaning, querying, ranking, visualization, and insight generation, making it suitable for entry-level data analyst roles.
